@@ -8,3 +8,5 @@ Keras 2.0の新しいTensorflowの機能に関するチュートリアルです�
 - 初めてのMnistとTensorflow + Keras 2.0
 - MnistとTensorboard
 - DenoisingのMnist
+- 雲生成のプロジェクト
+  - 予測
